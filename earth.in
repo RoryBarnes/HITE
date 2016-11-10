@@ -1,0 +1,23 @@
+NumPlanets	3
+
+StellarLogG 	-4.43812
+StellarRadius	1.0
+StellarTemp	5771.8
+
+BodyPos		1
+TransitDepth	82.9
+Period		365.25
+Duration	13.09
+ImpactParam	0
+
+BodyPos		2
+TransitDepth	74.8
+Period		225
+Duration	11.14
+ImpactParam	0
+
+BodyPos		3
+TransitDepth	23.5
+Period		686.971
+Duration	16.182	
+ImpactParam	0
